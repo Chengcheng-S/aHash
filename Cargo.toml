@@ -104,6 +104,7 @@ smallvec = "1.13.1"
 
 
 [feature]
+default = []
 js = ["getrandom/js"]
 
 [package.metadata.docs.rs]
